@@ -6,19 +6,19 @@ typedef long long ll;
 #define MOD 1e9+7
 
 void sed(){
-    ios_base::sync_with_stdio(0);
-    cin.tie(0);
-    cout.tie(0);
+	ios_base::sync_with_stdio(0);
+	cin.tie(0);
+	cout.tie(0);
 
-    // #ifndef ONLINE_JUDGE
-    // freopen("i.txt", "r", stdin);
-    // freopen("o.txt", "w", stdout);
-    // #endif
+	// #ifndef ONLINE_JUDGE
+	// freopen("i.txt", "r", stdin);
+	// freopen("o.txt", "w", stdout);
+	// #endif
 }
  
 
 int main()
 {
-    sed();
+	sed();
 
 }
