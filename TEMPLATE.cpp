@@ -17,8 +17,6 @@ void sed(){
 }
  
 
-int main()
-{
+int main(){
 	sed();
-
 }
