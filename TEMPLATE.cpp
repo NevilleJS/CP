@@ -10,10 +10,10 @@ void sed(){
 	cin.tie(0);
 	cout.tie(0);
 
-	// #ifndef ONLINE_JUDGE
-	// freopen("i.txt", "r", stdin);
-	// freopen("o.txt", "w", stdout);
-	// #endif
+	#ifndef ONLINE_JUDGE
+	freopen("i.txt", "r", stdin);
+	freopen("o.txt", "w", stdout);
+	#endif
 }
  
 
